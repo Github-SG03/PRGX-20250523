@@ -1,0 +1,3953 @@
+{
+    "jsonversion": "1.0",
+    "revision": "1.0",
+    "filetype": "EBCDIC",
+    "recordlength": 1651,
+    "fields": [
+        {
+            "fieldname": "PRCOQTY01",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "PRCOQTY02",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "PRCOQTY03",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "PRCOQTY04",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "PRCOQTY05",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "PRCOQTY06",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "PRCOQTY07",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "PRCOQTY08",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "PRCOQTY09",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "PRCOQTY10",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "PRCOQTY11",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "PRCOQTY12",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "PRCOQTY13",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "PRCOQTY14",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "PRCOQTY15",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "PRCOQTY16",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "PRCOQTY17",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "PRCOQTY18",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "PRCOQTY19",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "PRCOQTY20",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "PRCOAMT01",
+            "size": 5,
+            "scale": 2,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 5
+        },
+        {
+            "fieldname": "PRCOAMT02",
+            "size": 5,
+            "scale": 2,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 5
+        },
+        {
+            "fieldname": "PRCOAMT03",
+            "size": 5,
+            "scale": 2,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 5
+        },
+        {
+            "fieldname": "PRCOAMT04",
+            "size": 5,
+            "scale": 2,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 5
+        },
+        {
+            "fieldname": "PRCOAMT05",
+            "size": 5,
+            "scale": 2,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 5
+        },
+        {
+            "fieldname": "PRCOAMT06",
+            "size": 5,
+            "scale": 2,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 5
+        },
+        {
+            "fieldname": "PRCOAMT07",
+            "size": 5,
+            "scale": 2,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 5
+        },
+        {
+            "fieldname": "PRCOAMT08",
+            "size": 5,
+            "scale": 2,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 5
+        },
+        {
+            "fieldname": "PRCOAMT09",
+            "size": 5,
+            "scale": 2,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 5
+        },
+        {
+            "fieldname": "PRCOAMT10",
+            "size": 5,
+            "scale": 2,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 5
+        },
+        {
+            "fieldname": "PRCOAMT11",
+            "size": 5,
+            "scale": 2,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 5
+        },
+        {
+            "fieldname": "PRCOAMT12",
+            "size": 5,
+            "scale": 2,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 5
+        },
+        {
+            "fieldname": "PRCOAMT13",
+            "size": 5,
+            "scale": 2,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 5
+        },
+        {
+            "fieldname": "PRCOAMT14",
+            "size": 5,
+            "scale": 2,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 5
+        },
+        {
+            "fieldname": "PRCOAMT15",
+            "size": 5,
+            "scale": 2,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 5
+        },
+        {
+            "fieldname": "PRCOAMT16",
+            "size": 5,
+            "scale": 2,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 5
+        },
+        {
+            "fieldname": "PRCOAMT17",
+            "size": 5,
+            "scale": 2,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 5
+        },
+        {
+            "fieldname": "PRCOAMT18",
+            "size": 5,
+            "scale": 2,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 5
+        },
+        {
+            "fieldname": "PRCOAMT19",
+            "size": 5,
+            "scale": 2,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 5
+        },
+        {
+            "fieldname": "PRCOAMT20",
+            "size": 5,
+            "scale": 2,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 5
+        },
+        {
+            "fieldname": "PRCOCLM01",
+            "size": 4,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 4
+        },
+        {
+            "fieldname": "PRCOCLM02",
+            "size": 4,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 4
+        },
+        {
+            "fieldname": "PRCOCLM03",
+            "size": 4,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 4
+        },
+        {
+            "fieldname": "PRCOCLM04",
+            "size": 4,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 4
+        },
+        {
+            "fieldname": "PRCOCLM05",
+            "size": 4,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 4
+        },
+        {
+            "fieldname": "PRCOCLM06",
+            "size": 4,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 4
+        },
+        {
+            "fieldname": "PRCOCLM07",
+            "size": 4,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 4
+        },
+        {
+            "fieldname": "PRCOCLM08",
+            "size": 4,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 4
+        },
+        {
+            "fieldname": "PRCOCLM09",
+            "size": 4,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 4
+        },
+        {
+            "fieldname": "PRCOCLM10",
+            "size": 4,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 4
+        },
+        {
+            "fieldname": "PRCOCLM11",
+            "size": 4,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 4
+        },
+        {
+            "fieldname": "PRCOCLM12",
+            "size": 4,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 4
+        },
+        {
+            "fieldname": "PRCOCLM13",
+            "size": 4,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 4
+        },
+        {
+            "fieldname": "PRCOCLM14",
+            "size": 4,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 4
+        },
+        {
+            "fieldname": "PRCOCLM15",
+            "size": 4,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 4
+        },
+        {
+            "fieldname": "PRCOCLM16",
+            "size": 4,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 4
+        },
+        {
+            "fieldname": "PRCOCLM17",
+            "size": 4,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 4
+        },
+        {
+            "fieldname": "PRCOCLM18",
+            "size": 4,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 4
+        },
+        {
+            "fieldname": "PRCOCLM19",
+            "size": 4,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 4
+        },
+        {
+            "fieldname": "PRCOCLM20",
+            "size": 4,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 4
+        },
+        {
+            "fieldname": "RTRNQTY01",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "RTRNQTY02",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "RTRNQTY03",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "RTRNQTY04",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "RTRNQTY05",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "RTRNQTY06",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "RTRNQTY07",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "RTRNQTY08",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "RTRNQTY09",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "RTRNQTY10",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "RTRNQTY11",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "RTRNQTY12",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "RTRNQTY13",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "RTRNQTY14",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "RTRNQTY15",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "RTRNQTY16",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "RTRNQTY17",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "RTRNQTY18",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "RTRNQTY19",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "RTRNQTY20",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "RTCLMAMT01",
+            "size": 5,
+            "scale": 2,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 5
+        },
+        {
+            "fieldname": "RTCLMAMT02",
+            "size": 5,
+            "scale": 2,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 5
+        },
+        {
+            "fieldname": "RTCLMAMT03",
+            "size": 5,
+            "scale": 2,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 5
+        },
+        {
+            "fieldname": "RTCLMAMT04",
+            "size": 5,
+            "scale": 2,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 5
+        },
+        {
+            "fieldname": "RTCLMAMT05",
+            "size": 5,
+            "scale": 2,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 5
+        },
+        {
+            "fieldname": "RTCLMAMT06",
+            "size": 5,
+            "scale": 2,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 5
+        },
+        {
+            "fieldname": "RTCLMAMT07",
+            "size": 5,
+            "scale": 2,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 5
+        },
+        {
+            "fieldname": "RTCLMAMT08",
+            "size": 5,
+            "scale": 2,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 5
+        },
+        {
+            "fieldname": "RTCLMAMT09",
+            "size": 5,
+            "scale": 2,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 5
+        },
+        {
+            "fieldname": "RTCLMAMT10",
+            "size": 5,
+            "scale": 2,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 5
+        },
+        {
+            "fieldname": "RTCLMAMT11",
+            "size": 5,
+            "scale": 2,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 5
+        },
+        {
+            "fieldname": "RTCLMAMT12",
+            "size": 5,
+            "scale": 2,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 5
+        },
+        {
+            "fieldname": "RTCLMAMT13",
+            "size": 5,
+            "scale": 2,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 5
+        },
+        {
+            "fieldname": "RTCLMAMT14",
+            "size": 5,
+            "scale": 2,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 5
+        },
+        {
+            "fieldname": "RTCLMAMT15",
+            "size": 5,
+            "scale": 2,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 5
+        },
+        {
+            "fieldname": "RTCLMAMT16",
+            "size": 5,
+            "scale": 2,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 5
+        },
+        {
+            "fieldname": "RTCLMAMT17",
+            "size": 5,
+            "scale": 2,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 5
+        },
+        {
+            "fieldname": "RTCLMAMT18",
+            "size": 5,
+            "scale": 2,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 5
+        },
+        {
+            "fieldname": "RTCLMAMT19",
+            "size": 5,
+            "scale": 2,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 5
+        },
+        {
+            "fieldname": "RTCLMAMT20",
+            "size": 5,
+            "scale": 2,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 5
+        },
+        {
+            "fieldname": "RTCLMNO01",
+            "size": 4,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 4
+        },
+        {
+            "fieldname": "RTCLMNO02",
+            "size": 4,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 4
+        },
+        {
+            "fieldname": "RTCLMNO03",
+            "size": 4,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 4
+        },
+        {
+            "fieldname": "RTCLMNO04",
+            "size": 4,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 4
+        },
+        {
+            "fieldname": "RTCLMNO05",
+            "size": 4,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 4
+        },
+        {
+            "fieldname": "RTCLMNO06",
+            "size": 4,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 4
+        },
+        {
+            "fieldname": "RTCLMNO07",
+            "size": 4,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 4
+        },
+        {
+            "fieldname": "RTCLMNO08",
+            "size": 4,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 4
+        },
+        {
+            "fieldname": "RTCLMNO09",
+            "size": 4,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 4
+        },
+        {
+            "fieldname": "RTCLMNO10",
+            "size": 4,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 4
+        },
+        {
+            "fieldname": "RTCLMNO11",
+            "size": 4,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 4
+        },
+        {
+            "fieldname": "RTCLMNO12",
+            "size": 4,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 4
+        },
+        {
+            "fieldname": "RTCLMNO13",
+            "size": 4,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 4
+        },
+        {
+            "fieldname": "RTCLMNO14",
+            "size": 4,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 4
+        },
+        {
+            "fieldname": "RTCLMNO15",
+            "size": 4,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 4
+        },
+        {
+            "fieldname": "RTCLMNO16",
+            "size": 4,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 4
+        },
+        {
+            "fieldname": "RTCLMNO17",
+            "size": 4,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 4
+        },
+        {
+            "fieldname": "RTCLMNO18",
+            "size": 4,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 4
+        },
+        {
+            "fieldname": "RTCLMNO19",
+            "size": 4,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 4
+        },
+        {
+            "fieldname": "RTCLMNO20",
+            "size": 4,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 4
+        },
+        {
+            "fieldname": "RTADJTYP01",
+            "size": 1,
+            "type": "varchar",
+            "sourcetype": "string",
+            "originallength": 1
+        },
+        {
+            "fieldname": "RTADJTYP02",
+            "size": 1,
+            "type": "varchar",
+            "sourcetype": "string",
+            "originallength": 1
+        },
+        {
+            "fieldname": "RTADJTYP03",
+            "size": 1,
+            "type": "varchar",
+            "sourcetype": "string",
+            "originallength": 1
+        },
+        {
+            "fieldname": "RTADJTYP04",
+            "size": 1,
+            "type": "varchar",
+            "sourcetype": "string",
+            "originallength": 1
+        },
+        {
+            "fieldname": "RTADJTYP05",
+            "size": 1,
+            "type": "varchar",
+            "sourcetype": "string",
+            "originallength": 1
+        },
+        {
+            "fieldname": "RTADJTYP06",
+            "size": 1,
+            "type": "varchar",
+            "sourcetype": "string",
+            "originallength": 1
+        },
+        {
+            "fieldname": "RTADJTYP07",
+            "size": 1,
+            "type": "varchar",
+            "sourcetype": "string",
+            "originallength": 1
+        },
+        {
+            "fieldname": "RTADJTYP08",
+            "size": 1,
+            "type": "varchar",
+            "sourcetype": "string",
+            "originallength": 1
+        },
+        {
+            "fieldname": "RTADJTYP09",
+            "size": 1,
+            "type": "varchar",
+            "sourcetype": "string",
+            "originallength": 1
+        },
+        {
+            "fieldname": "RTADJTYP10",
+            "size": 1,
+            "type": "varchar",
+            "sourcetype": "string",
+            "originallength": 1
+        },
+        {
+            "fieldname": "RTADJTYP11",
+            "size": 1,
+            "type": "varchar",
+            "sourcetype": "string",
+            "originallength": 1
+        },
+        {
+            "fieldname": "RTADJTYP12",
+            "size": 1,
+            "type": "varchar",
+            "sourcetype": "string",
+            "originallength": 1
+        },
+        {
+            "fieldname": "RTADJTYP13",
+            "size": 1,
+            "type": "varchar",
+            "sourcetype": "string",
+            "originallength": 1
+        },
+        {
+            "fieldname": "RTADJTYP14",
+            "size": 1,
+            "type": "varchar",
+            "sourcetype": "string",
+            "originallength": 1
+        },
+        {
+            "fieldname": "RTADJTYP15",
+            "size": 1,
+            "type": "varchar",
+            "sourcetype": "string",
+            "originallength": 1
+        },
+        {
+            "fieldname": "RTADJTYP16",
+            "size": 1,
+            "type": "varchar",
+            "sourcetype": "string",
+            "originallength": 1
+        },
+        {
+            "fieldname": "RTADJTYP17",
+            "size": 1,
+            "type": "varchar",
+            "sourcetype": "string",
+            "originallength": 1
+        },
+        {
+            "fieldname": "RTADJTYP18",
+            "size": 1,
+            "type": "varchar",
+            "sourcetype": "string",
+            "originallength": 1
+        },
+        {
+            "fieldname": "RTADJTYP19",
+            "size": 1,
+            "type": "varchar",
+            "sourcetype": "string",
+            "originallength": 1
+        },
+        {
+            "fieldname": "RTADJTYP20",
+            "size": 1,
+            "type": "varchar",
+            "sourcetype": "string",
+            "originallength": 1
+        },
+        {
+            "fieldname": "BCKDTQTY01",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "BCKDTQTY02",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "BCKDTQTY03",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "BCKDTQTY04",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "BCKDTQTY05",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "BCKDTQTY06",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "BCKDTQTY07",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "BCKDTQTY08",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "BCKDTQTY09",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "BCKDTQTY10",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "BCKDTQTY11",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "BCKDTQTY12",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "BCKDTQTY13",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "BCKDTQTY14",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "BCKDTQTY15",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "BCKDTQTY16",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "BCKDTQTY17",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "BCKDTQTY18",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "BCKDTQTY19",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "BCKDTQTY20",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "BCKDTAMT01",
+            "size": 5,
+            "scale": 2,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 5
+        },
+        {
+            "fieldname": "BCKDTAMT02",
+            "size": 5,
+            "scale": 2,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 5
+        },
+        {
+            "fieldname": "BCKDTAMT03",
+            "size": 5,
+            "scale": 2,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 5
+        },
+        {
+            "fieldname": "BCKDTAMT04",
+            "size": 5,
+            "scale": 2,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 5
+        },
+        {
+            "fieldname": "BCKDTAMT05",
+            "size": 5,
+            "scale": 2,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 5
+        },
+        {
+            "fieldname": "BCKDTAMT06",
+            "size": 5,
+            "scale": 2,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 5
+        },
+        {
+            "fieldname": "BCKDTAMT07",
+            "size": 5,
+            "scale": 2,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 5
+        },
+        {
+            "fieldname": "BCKDTAMT08",
+            "size": 5,
+            "scale": 2,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 5
+        },
+        {
+            "fieldname": "BCKDTAMT09",
+            "size": 5,
+            "scale": 2,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 5
+        },
+        {
+            "fieldname": "BCKDTAMT10",
+            "size": 5,
+            "scale": 2,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 5
+        },
+        {
+            "fieldname": "BCKDTAMT11",
+            "size": 5,
+            "scale": 2,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 5
+        },
+        {
+            "fieldname": "BCKDTAMT12",
+            "size": 5,
+            "scale": 2,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 5
+        },
+        {
+            "fieldname": "BCKDTAMT13",
+            "size": 5,
+            "scale": 2,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 5
+        },
+        {
+            "fieldname": "BCKDTAMT14",
+            "size": 5,
+            "scale": 2,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 5
+        },
+        {
+            "fieldname": "BCKDTAMT15",
+            "size": 5,
+            "scale": 2,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 5
+        },
+        {
+            "fieldname": "BCKDTAMT16",
+            "size": 5,
+            "scale": 2,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 5
+        },
+        {
+            "fieldname": "BCKDTAMT17",
+            "size": 5,
+            "scale": 2,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 5
+        },
+        {
+            "fieldname": "BCKDTAMT18",
+            "size": 5,
+            "scale": 2,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 5
+        },
+        {
+            "fieldname": "BCKDTAMT19",
+            "size": 5,
+            "scale": 2,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 5
+        },
+        {
+            "fieldname": "BCKDTAMT20",
+            "size": 5,
+            "scale": 2,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 5
+        },
+        {
+            "fieldname": "BCKDTCLM01",
+            "size": 4,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 4
+        },
+        {
+            "fieldname": "BCKDTCLM02",
+            "size": 4,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 4
+        },
+        {
+            "fieldname": "BCKDTCLM03",
+            "size": 4,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 4
+        },
+        {
+            "fieldname": "BCKDTCLM04",
+            "size": 4,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 4
+        },
+        {
+            "fieldname": "BCKDTCLM05",
+            "size": 4,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 4
+        },
+        {
+            "fieldname": "BCKDTCLM06",
+            "size": 4,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 4
+        },
+        {
+            "fieldname": "BCKDTCLM07",
+            "size": 4,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 4
+        },
+        {
+            "fieldname": "BCKDTCLM08",
+            "size": 4,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 4
+        },
+        {
+            "fieldname": "BCKDTCLM09",
+            "size": 4,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 4
+        },
+        {
+            "fieldname": "BCKDTCLM10",
+            "size": 4,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 4
+        },
+        {
+            "fieldname": "BCKDTCLM11",
+            "size": 4,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 4
+        },
+        {
+            "fieldname": "BCKDTCLM12",
+            "size": 4,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 4
+        },
+        {
+            "fieldname": "BCKDTCLM13",
+            "size": 4,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 4
+        },
+        {
+            "fieldname": "BCKDTCLM14",
+            "size": 4,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 4
+        },
+        {
+            "fieldname": "BCKDTCLM15",
+            "size": 4,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 4
+        },
+        {
+            "fieldname": "BCKDTCLM16",
+            "size": 4,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 4
+        },
+        {
+            "fieldname": "BCKDTCLM17",
+            "size": 4,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 4
+        },
+        {
+            "fieldname": "BCKDTCLM18",
+            "size": 4,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 4
+        },
+        {
+            "fieldname": "BCKDTCLM19",
+            "size": 4,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 4
+        },
+        {
+            "fieldname": "BCKDTCLM20",
+            "size": 4,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 4
+        },
+        {
+            "fieldname": "TGPLOCCD1",
+            "size": 6,
+            "type": "varchar",
+            "sourcetype": "string",
+            "originallength": 6
+        },
+        {
+            "fieldname": "FCPNO1",
+            "size": 5,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "string",
+            "originallength": 5
+        },
+        {
+            "fieldname": "TRFRGNID1",
+            "size": 1,
+            "type": "varchar",
+            "sourcetype": "string",
+            "originallength": 1
+        },
+        {
+            "fieldname": "TRFRGNID2",
+            "size": 1,
+            "type": "varchar",
+            "sourcetype": "string",
+            "originallength": 1
+        },
+        {
+            "fieldname": "TRFRGNID3",
+            "size": 1,
+            "type": "varchar",
+            "sourcetype": "string",
+            "originallength": 1
+        },
+        {
+            "fieldname": "TRFRGNID4",
+            "size": 1,
+            "type": "varchar",
+            "sourcetype": "string",
+            "originallength": 1
+        },
+        {
+            "fieldname": "TRFRGNID5",
+            "size": 1,
+            "type": "varchar",
+            "sourcetype": "string",
+            "originallength": 1
+        },
+        {
+            "fieldname": "TRFRGNID6",
+            "size": 1,
+            "type": "varchar",
+            "sourcetype": "string",
+            "originallength": 1
+        },
+        {
+            "fieldname": "TRFRGNID7",
+            "size": 1,
+            "type": "varchar",
+            "sourcetype": "string",
+            "originallength": 1
+        },
+        {
+            "fieldname": "TRFRGNID8",
+            "size": 1,
+            "type": "varchar",
+            "sourcetype": "string",
+            "originallength": 1
+        },
+        {
+            "fieldname": "TRFRGNID9",
+            "size": 1,
+            "type": "varchar",
+            "sourcetype": "string",
+            "originallength": 1
+        },
+        {
+            "fieldname": "TRFRGNID10",
+            "size": 1,
+            "type": "varchar",
+            "sourcetype": "string",
+            "originallength": 1
+        },
+        {
+            "fieldname": "TRFRGNID11",
+            "size": 1,
+            "type": "varchar",
+            "sourcetype": "string",
+            "originallength": 1
+        },
+        {
+            "fieldname": "TRFRGNID12",
+            "size": 1,
+            "type": "varchar",
+            "sourcetype": "string",
+            "originallength": 1
+        },
+        {
+            "fieldname": "TRFRGNID13",
+            "size": 1,
+            "type": "varchar",
+            "sourcetype": "string",
+            "originallength": 1
+        },
+        {
+            "fieldname": "TRFRGNID14",
+            "size": 1,
+            "type": "varchar",
+            "sourcetype": "string",
+            "originallength": 1
+        },
+        {
+            "fieldname": "TRFRGNID15",
+            "size": 1,
+            "type": "varchar",
+            "sourcetype": "string",
+            "originallength": 1
+        },
+        {
+            "fieldname": "TRFRGNID16",
+            "size": 1,
+            "type": "varchar",
+            "sourcetype": "string",
+            "originallength": 1
+        },
+        {
+            "fieldname": "TRFRGNID17",
+            "size": 1,
+            "type": "varchar",
+            "sourcetype": "string",
+            "originallength": 1
+        },
+        {
+            "fieldname": "TRFRGNID18",
+            "size": 1,
+            "type": "varchar",
+            "sourcetype": "string",
+            "originallength": 1
+        },
+        {
+            "fieldname": "TRFRGNID19",
+            "size": 1,
+            "type": "varchar",
+            "sourcetype": "string",
+            "originallength": 1
+        },
+        {
+            "fieldname": "TRFRGNID20",
+            "size": 1,
+            "type": "varchar",
+            "sourcetype": "string",
+            "originallength": 1
+        },
+        {
+            "fieldname": "TRFRGNID21",
+            "size": 1,
+            "type": "varchar",
+            "sourcetype": "string",
+            "originallength": 1
+        },
+        {
+            "fieldname": "TRFRGNID22",
+            "size": 1,
+            "type": "varchar",
+            "sourcetype": "string",
+            "originallength": 1
+        },
+        {
+            "fieldname": "TRFRGNID23",
+            "size": 1,
+            "type": "varchar",
+            "sourcetype": "string",
+            "originallength": 1
+        },
+        {
+            "fieldname": "TRFRGNID24",
+            "size": 1,
+            "type": "varchar",
+            "sourcetype": "string",
+            "originallength": 1
+        },
+        {
+            "fieldname": "TRFRGNID25",
+            "size": 1,
+            "type": "varchar",
+            "sourcetype": "string",
+            "originallength": 1
+        },
+        {
+            "fieldname": "TRFRGNID26",
+            "size": 1,
+            "type": "varchar",
+            "sourcetype": "string",
+            "originallength": 1
+        },
+        {
+            "fieldname": "TRFRGNID27",
+            "size": 1,
+            "type": "varchar",
+            "sourcetype": "string",
+            "originallength": 1
+        },
+        {
+            "fieldname": "TRFRGNID28",
+            "size": 1,
+            "type": "varchar",
+            "sourcetype": "string",
+            "originallength": 1
+        },
+        {
+            "fieldname": "TRFRGNID29",
+            "size": 1,
+            "type": "varchar",
+            "sourcetype": "string",
+            "originallength": 1
+        },
+        {
+            "fieldname": "TRFRGNID30",
+            "size": 1,
+            "type": "varchar",
+            "sourcetype": "string",
+            "originallength": 1
+        },
+        {
+            "fieldname": "TRFRGNID31",
+            "size": 1,
+            "type": "varchar",
+            "sourcetype": "string",
+            "originallength": 1
+        },
+        {
+            "fieldname": "TRFRGNID32",
+            "size": 1,
+            "type": "varchar",
+            "sourcetype": "string",
+            "originallength": 1
+        },
+        {
+            "fieldname": "TRFRGNID33",
+            "size": 1,
+            "type": "varchar",
+            "sourcetype": "string",
+            "originallength": 1
+        },
+        {
+            "fieldname": "TRFRGNID34",
+            "size": 1,
+            "type": "varchar",
+            "sourcetype": "string",
+            "originallength": 1
+        },
+        {
+            "fieldname": "TRFRGNID35",
+            "size": 1,
+            "type": "varchar",
+            "sourcetype": "string",
+            "originallength": 1
+        },
+        {
+            "fieldname": "TRFRGNID36",
+            "size": 1,
+            "type": "varchar",
+            "sourcetype": "string",
+            "originallength": 1
+        },
+        {
+            "fieldname": "TRFRGNID37",
+            "size": 1,
+            "type": "varchar",
+            "sourcetype": "string",
+            "originallength": 1
+        },
+        {
+            "fieldname": "TRFRGNID38",
+            "size": 1,
+            "type": "varchar",
+            "sourcetype": "string",
+            "originallength": 1
+        },
+        {
+            "fieldname": "TRFRGNID39",
+            "size": 1,
+            "type": "varchar",
+            "sourcetype": "string",
+            "originallength": 1
+        },
+        {
+            "fieldname": "TRFRGNID40",
+            "size": 1,
+            "type": "varchar",
+            "sourcetype": "string",
+            "originallength": 1
+        },
+        {
+            "fieldname": "TRFRGNID41",
+            "size": 1,
+            "type": "varchar",
+            "sourcetype": "string",
+            "originallength": 1
+        },
+        {
+            "fieldname": "TRFRGNID42",
+            "size": 1,
+            "type": "varchar",
+            "sourcetype": "string",
+            "originallength": 1
+        },
+        {
+            "fieldname": "TRFRGNID43",
+            "size": 1,
+            "type": "varchar",
+            "sourcetype": "string",
+            "originallength": 1
+        },
+        {
+            "fieldname": "TRFRGNID44",
+            "size": 1,
+            "type": "varchar",
+            "sourcetype": "string",
+            "originallength": 1
+        },
+        {
+            "fieldname": "TRFRGNID45",
+            "size": 1,
+            "type": "varchar",
+            "sourcetype": "string",
+            "originallength": 1
+        },
+        {
+            "fieldname": "TRFRGNID46",
+            "size": 1,
+            "type": "varchar",
+            "sourcetype": "string",
+            "originallength": 1
+        },
+        {
+            "fieldname": "TRFRGNID47",
+            "size": 1,
+            "type": "varchar",
+            "sourcetype": "string",
+            "originallength": 1
+        },
+        {
+            "fieldname": "TRFRGNID48",
+            "size": 1,
+            "type": "varchar",
+            "sourcetype": "string",
+            "originallength": 1
+        },
+        {
+            "fieldname": "TRFRGNID49",
+            "size": 1,
+            "type": "varchar",
+            "sourcetype": "string",
+            "originallength": 1
+        },
+        {
+            "fieldname": "TRFRGNID50",
+            "size": 1,
+            "type": "varchar",
+            "sourcetype": "string",
+            "originallength": 1
+        },
+        {
+            "fieldname": "POFCPNO1",
+            "size": 5,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "string",
+            "originallength": 5
+        },
+        {
+            "fieldname": "POFCPNO2",
+            "size": 5,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "string",
+            "originallength": 5
+        },
+        {
+            "fieldname": "POFCPNO3",
+            "size": 5,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "string",
+            "originallength": 5
+        },
+        {
+            "fieldname": "POFCPNO4",
+            "size": 5,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "string",
+            "originallength": 5
+        },
+        {
+            "fieldname": "POFCPNO5",
+            "size": 5,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "string",
+            "originallength": 5
+        },
+        {
+            "fieldname": "POFCPNO6",
+            "size": 5,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "string",
+            "originallength": 5
+        },
+        {
+            "fieldname": "POFCPNO7",
+            "size": 5,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "string",
+            "originallength": 5
+        },
+        {
+            "fieldname": "POFCPNO8",
+            "size": 5,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "string",
+            "originallength": 5
+        },
+        {
+            "fieldname": "POFCPNO9",
+            "size": 5,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "string",
+            "originallength": 5
+        },
+        {
+            "fieldname": "POFCPNO10",
+            "size": 5,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "string",
+            "originallength": 5
+        },
+        {
+            "fieldname": "POFCPNO11",
+            "size": 5,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "string",
+            "originallength": 5
+        },
+        {
+            "fieldname": "POFCPNO12",
+            "size": 5,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "string",
+            "originallength": 5
+        },
+        {
+            "fieldname": "POFCPNO13",
+            "size": 5,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "string",
+            "originallength": 5
+        },
+        {
+            "fieldname": "POFCPNO14",
+            "size": 5,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "string",
+            "originallength": 5
+        },
+        {
+            "fieldname": "POFCPNO15",
+            "size": 5,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "string",
+            "originallength": 5
+        },
+        {
+            "fieldname": "POFCPNO16",
+            "size": 5,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "string",
+            "originallength": 5
+        },
+        {
+            "fieldname": "POFCPNO17",
+            "size": 5,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "string",
+            "originallength": 5
+        },
+        {
+            "fieldname": "POFCPNO18",
+            "size": 5,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "string",
+            "originallength": 5
+        },
+        {
+            "fieldname": "POFCPNO19",
+            "size": 5,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "string",
+            "originallength": 5
+        },
+        {
+            "fieldname": "POFCPNO20",
+            "size": 5,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "string",
+            "originallength": 5
+        },
+        {
+            "fieldname": "POFCPNO21",
+            "size": 5,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "string",
+            "originallength": 5
+        },
+        {
+            "fieldname": "POFCPNO22",
+            "size": 5,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "string",
+            "originallength": 5
+        },
+        {
+            "fieldname": "POFCPNO23",
+            "size": 5,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "string",
+            "originallength": 5
+        },
+        {
+            "fieldname": "POFCPNO24",
+            "size": 5,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "string",
+            "originallength": 5
+        },
+        {
+            "fieldname": "POFCPNO25",
+            "size": 5,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "string",
+            "originallength": 5
+        },
+        {
+            "fieldname": "POFCPNO26",
+            "size": 5,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "string",
+            "originallength": 5
+        },
+        {
+            "fieldname": "POFCPNO27",
+            "size": 5,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "string",
+            "originallength": 5
+        },
+        {
+            "fieldname": "POFCPNO28",
+            "size": 5,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "string",
+            "originallength": 5
+        },
+        {
+            "fieldname": "POFCPNO29",
+            "size": 5,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "string",
+            "originallength": 5
+        },
+        {
+            "fieldname": "POFCPNO30",
+            "size": 5,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "string",
+            "originallength": 5
+        },
+        {
+            "fieldname": "POFCPNO31",
+            "size": 5,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "string",
+            "originallength": 5
+        },
+        {
+            "fieldname": "POFCPNO32",
+            "size": 5,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "string",
+            "originallength": 5
+        },
+        {
+            "fieldname": "POFCPNO33",
+            "size": 5,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "string",
+            "originallength": 5
+        },
+        {
+            "fieldname": "POFCPNO34",
+            "size": 5,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "string",
+            "originallength": 5
+        },
+        {
+            "fieldname": "POFCPNO35",
+            "size": 5,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "string",
+            "originallength": 5
+        },
+        {
+            "fieldname": "POFCPNO36",
+            "size": 5,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "string",
+            "originallength": 5
+        },
+        {
+            "fieldname": "POFCPNO37",
+            "size": 5,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "string",
+            "originallength": 5
+        },
+        {
+            "fieldname": "POFCPNO38",
+            "size": 5,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "string",
+            "originallength": 5
+        },
+        {
+            "fieldname": "POFCPNO39",
+            "size": 5,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "string",
+            "originallength": 5
+        },
+        {
+            "fieldname": "POFCPNO40",
+            "size": 5,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "string",
+            "originallength": 5
+        },
+        {
+            "fieldname": "POFCPNO41",
+            "size": 5,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "string",
+            "originallength": 5
+        },
+        {
+            "fieldname": "POFCPNO42",
+            "size": 5,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "string",
+            "originallength": 5
+        },
+        {
+            "fieldname": "POFCPNO43",
+            "size": 5,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "string",
+            "originallength": 5
+        },
+        {
+            "fieldname": "POFCPNO44",
+            "size": 5,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "string",
+            "originallength": 5
+        },
+        {
+            "fieldname": "POFCPNO45",
+            "size": 5,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "string",
+            "originallength": 5
+        },
+        {
+            "fieldname": "POFCPNO46",
+            "size": 5,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "string",
+            "originallength": 5
+        },
+        {
+            "fieldname": "POFCPNO47",
+            "size": 5,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "string",
+            "originallength": 5
+        },
+        {
+            "fieldname": "POFCPNO48",
+            "size": 5,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "string",
+            "originallength": 5
+        },
+        {
+            "fieldname": "POFCPNO49",
+            "size": 5,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "string",
+            "originallength": 5
+        },
+        {
+            "fieldname": "POFCPNO50",
+            "size": 5,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "string",
+            "originallength": 5
+        },
+        {
+            "fieldname": "PROMQTY1",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "PROMQTY2",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "PROMQTY3",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "PROMQTY4",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "PROMQTY5",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "PROMQTY6",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "PROMQTY7",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "PROMQTY8",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "PROMQTY9",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "PROMQTY10",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "PROMQTY11",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "PROMQTY12",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "PROMQTY13",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "PROMQTY14",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "PROMQTY15",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "PROMQTY16",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "PROMQTY17",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "PROMQTY18",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "PROMQTY19",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "PROMQTY20",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "PROMQTY21",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "PROMQTY22",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "PROMQTY23",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "PROMQTY24",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "PROMQTY25",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "PROMQTY26",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "PROMQTY27",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "PROMQTY28",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "PROMQTY29",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "PROMQTY30",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "PROMQTY31",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "PROMQTY32",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "PROMQTY33",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "PROMQTY34",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "PROMQTY35",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "PROMQTY36",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "PROMQTY37",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "PROMQTY38",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "PROMQTY39",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "PROMQTY40",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "PROMQTY41",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "PROMQTY42",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "PROMQTY43",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "PROMQTY44",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "PROMQTY45",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "PROMQTY46",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "PROMQTY47",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "PROMQTY48",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "PROMQTY49",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "PROMQTY50",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "ORGPRQTY1",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "ORGPRQTY2",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "ORGPRQTY3",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "ORGPRQTY4",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "ORGPRQTY5",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "ORGPRQTY6",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "ORGPRQTY7",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "ORGPRQTY8",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "ORGPRQTY9",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "ORGPRQTY10",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "ORGPRQTY11",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "ORGPRQTY12",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "ORGPRQTY13",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "ORGPRQTY14",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "ORGPRQTY15",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "ORGPRQTY16",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "ORGPRQTY17",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "ORGPRQTY18",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "ORGPRQTY19",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "ORGPRQTY20",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "ORGPRQTY21",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "ORGPRQTY22",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "ORGPRQTY23",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "ORGPRQTY24",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "ORGPRQTY25",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "ORGPRQTY26",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "ORGPRQTY27",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "ORGPRQTY28",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "ORGPRQTY29",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "ORGPRQTY30",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "ORGPRQTY31",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "ORGPRQTY32",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "ORGPRQTY33",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "ORGPRQTY34",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "ORGPRQTY35",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "ORGPRQTY36",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "ORGPRQTY37",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "ORGPRQTY38",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "ORGPRQTY39",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "ORGPRQTY40",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "ORGPRQTY41",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "ORGPRQTY42",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "ORGPRQTY43",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "ORGPRQTY44",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "ORGPRQTY45",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "ORGPRQTY46",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "ORGPRQTY47",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "ORGPRQTY48",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "ORGPRQTY49",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "ORGPRQTY50",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "PRORCVQTY1",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "PRORCVQTY2",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "PRORCVQTY3",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "PRORCVQTY4",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "PRORCVQTY5",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "PRORCVQTY6",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "PRORCVQTY7",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "PRORCVQTY8",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "PRORCVQTY9",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "PRORCVQT10",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "PRORCVQT11",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "PRORCVQT12",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "PRORCVQT13",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "PRORCVQT14",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "PRORCVQT15",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "PRORCVQT16",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "PRORCVQT17",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "PRORCVQT18",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "PRORCVQT19",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "PRORCVQT20",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "PRORCVQT21",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "PRORCVQT22",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "PRORCVQT23",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "PRORCVQT24",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "PRORCVQT25",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "PRORCVQT26",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "PRORCVQT27",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "PRORCVQT28",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "PRORCVQT29",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "PRORCVQT30",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "PRORCVQT31",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "PRORCVQT32",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "PRORCVQT33",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "PRORCVQT34",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "PRORCVQT35",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "PRORCVQT36",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "PRORCVQT37",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "PRORCVQT38",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "PRORCVQT39",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "PRORCVQT40",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "PRORCVQT41",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "PRORCVQT42",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "PRORCVQT43",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "PRORCVQT44",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "PRORCVQT45",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "PRORCVQT46",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "PRORCVQT47",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "PRORCVQT48",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "PRORCVQT49",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "PRORCVQT50",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "PROSHTQTY1",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "PROSHTQTY2",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "PROSHTQTY3",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "PROSHTQTY4",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "PROSHTQTY5",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "PROSHTQTY6",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "PROSHTQTY7",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "PROSHTQTY8",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "PROSHTQTY9",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "PROSHTQT10",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "PROSHTQT11",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "PROSHTQT12",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "PROSHTQT13",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "PROSHTQT14",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "PROSHTQT15",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "PROSHTQT16",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "PROSHTQT17",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "PROSHTQT18",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "PROSHTQT19",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "PROSHTQT20",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "PROSHTQT21",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "PROSHTQT22",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "PROSHTQT23",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "PROSHTQT24",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "PROSHTQT25",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "PROSHTQT26",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "PROSHTQT27",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "PROSHTQT28",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "PROSHTQT29",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "PROSHTQT30",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "PROSHTQT31",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "PROSHTQT32",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "PROSHTQT33",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "PROSHTQT34",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "PROSHTQT35",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "PROSHTQT36",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "PROSHTQT37",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "PROSHTQT38",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "PROSHTQT39",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "PROSHTQT40",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "PROSHTQT41",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "PROSHTQT42",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "PROSHTQT43",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "PROSHTQT44",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "PROSHTQT45",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "PROSHTQT46",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "PROSHTQT47",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "PROSHTQT48",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "PROSHTQT49",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        },
+        {
+            "fieldname": "PROSHTQT50",
+            "size": 3,
+            "scale": 0,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 3
+        }
+    ]
+}

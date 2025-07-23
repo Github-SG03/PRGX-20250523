@@ -1,0 +1,45 @@
+{
+    "jsonversion": "1.0",
+    "revision": "1.0",
+    "filetype": "EBCDIC",
+    "encoding": "Cp037",
+    "recordlength": "72",
+    "fields": [
+        {
+            "fieldname": "DEAL_ID",
+            "size": 9,
+            "type": "int",
+            "sourcetype": "binary",
+            "originallength": 4
+        },
+        {
+            "fieldname": "JOB_CNTRL_ID",
+            "size": 25,
+            "type": "varchar",
+            "sourcetype": "string",
+            "originallength": 20
+        },
+        {
+            "fieldname": "FIXTURE_JOB_DATE",
+            "size": 26,
+            "type": "datetime2",
+            "sourcetype": "string",
+            "originallength": 10
+        },
+        {
+            "fieldname": "FX_JOB_EST_CST_AMT",
+            "size": 15,
+            "scale": 4,
+            "type": "numeric",
+            "sourcetype": "packeddecimal",
+            "originallength": 8
+        },
+        {
+            "fieldname": "FIXTURE_JOB_NAME",
+            "size": 35,
+            "type": "varchar",
+            "sourcetype": "string",
+            "originallength": 30
+        }
+    ]
+}

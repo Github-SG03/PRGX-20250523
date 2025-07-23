@@ -1,0 +1,30 @@
+{
+    "jsonversion": "1.0",
+    "revision": "1.0",
+    "filetype": "DELIMITED",
+    "delimiter": ",",
+    "fields": [
+        {
+            "fieldname": "Purchasing_Document_Number",
+            "size": 20,
+            "scale": 0,
+            "type": "numeric"
+        },
+        {
+            "fieldname": "Item_Number_of_Purchasing_Document",
+            "size": 10,
+            "scale": 0,
+            "type": "numeric"
+        },
+        {
+            "fieldname": "Error_Reason_Code",
+            "size": 20,
+            "type": "varchar"
+        },
+        {
+            "fieldname": "Purchasing_Document_Category",
+            "size": 5,
+            "type": "varchar"
+        }
+    ]
+}
